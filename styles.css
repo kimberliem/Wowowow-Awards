@@ -1,0 +1,43 @@
+html{
+    background-image:url("https://media2.giphy.com/media/3o7buijTqhjxjbEqjK/200w.webp?cid=3640f6095beadc227734504545a4c534");
+
+    text-align:center;
+}
+
+h1{
+    font-family: 'Yellowtail', cursive;
+    
+}
+
+body{
+    text-align:center;
+    
+}
+
+h2{
+    font-family:'Alex Brush', cursive;
+}
+ 
+ .red{
+     color:red;
+ }
+ 
+ .purple{
+     color:purple;
+ }
+ 
+ .blue{
+     color:blue;
+ }
+ 
+ .yellow{
+     color:yellow;
+ }
+ 
+ 
+ .green{
+     color:green;
+ }
+ .white{
+     color:white;
+ }
